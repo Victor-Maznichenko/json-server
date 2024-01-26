@@ -1,74 +1,662 @@
 {
-  "users": [
+  "collections": [
+    {
+      "id": 0,
+      "title": "XMAS PACK",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/vsrap.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/vsrap.png?raw=true",
+      "description": "",
+      "popularity": 100,
+      "authorID": 0,
+      "date": 1706261482707
+    },
     {
       "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "title": "SENSITIVE CONTENT",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/dead_blond.png?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/dead_blond.png?raw=true",
+      "description": "Новая коллекция от Dead Blonde",
+      "popularity": 99,
+      "authorID": 1,
+      "date": 1706261482707
     },
     {
       "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "title": "SC WORLDWIDE",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/CMH.png?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/CMH.png?raw=true",
+      "description": "Новая масштабная коллекция от CMH",
+      "popularity": 98,
+      "authorID": 2,
+      "date": 1706261482707
     },
     {
       "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "title": "UNIVERSITY",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/vsrap2.png?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/vsrap2.png?raw=true",
+      "description": "Drop pt.2",
+      "popularity": 97,
+      "authorID": 0,
+      "date": 1706261482707
     },
     {
       "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "title": "Лиза Мадрид",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/liza.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/liza_madrid.png?raw=true",
+      "description": "Коллекция Heartless",
+      "popularity": 96,
+      "authorID": 3,
+      "date": 1706261482707
     },
     {
       "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "title": "ЮГ 404",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/youg_404.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/YOUG_404.png?raw=true",
+      "description": "Новая коллекция",
+      "popularity": 95,
+      "authorID": 4,
+      "date": 1706261482707
     },
     {
       "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
+      "title": "BOOKER",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/booker.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/booker.png?raw=true",
+      "description": "Новый дроп",
+      "popularity": 94,
+      "authorID": 5,
+      "date": 1706261482707
     },
     {
       "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
+      "title": "ANTIHYPE",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/antihype.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/antihype.png?raw=true",
+      "description": "Новые премиальные вещи",
+      "popularity": 93,
+      "authorID": 6,
+      "date": 1706261482707
     },
     {
       "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
+      "title": "mzlff",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/mzlff.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/mzlff.png?raw=true",
+      "description": "Первая коллекция от Мазеллова",
+      "popularity": 92,
+      "authorID": 7,
+      "date": 1706261482707
     },
     {
       "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
+      "title": "GSPD",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/gspd.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/gspd.png?raw=true",
+      "description": "Новая большая коллекция",
+      "popularity": 91,
+      "authorID": 8,
+      "date": 1706261482707
     },
     {
       "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "title": "LIL PSINA",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/kaplan.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/kaplan.png?raw=true",
+      "description": "Новая большая коллекция от Даши Каплан",
+      "popularity": 90,
+      "authorID": 9,
+      "date": 1706261482707
+    },
+    {
+      "id": 11,
+      "title": "LIDA",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/lida.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/lida.png?raw=true",
+      "description": "Новая коллекция Дак Тейлс",
+      "popularity": 89,
+      "authorID": 10,
+      "date": 1706261482707
+    },
+    {
+      "id": 12,
+      "title": "SATAN CLUB",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/CMH2.png?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/CMH2.png?raw=true",
+      "description": "Новая коллекция от CMH",
+      "popularity": 88,
+      "authorID": 2,
+      "date": 1706261482707
+    },
+    {
+      "id": 13,
+      "title": "SNAILKICK",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/snailkick.png?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/snailkik.png?raw=true",
+      "description": "Официальный мерч",
+      "popularity": 87,
+      "authorID": 11,
+      "date": 1706261482707
+    },
+    {
+      "id": 14,
+      "title": "SAMURAI BEAR",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/free_flow.jpg?raw=true",
+      "bannerPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/banners/samurai.jpg?raw=true",
+      "description": "by Free Flow Flava",
+      "popularity": 86,
+      "authorID": 12,
+      "date": 1706261482707
+    },
+    {
+      "id": 15,
+      "title": "ЮГ 808",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/youg_808.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 13,
+      "date": 1706261482707
+    },
+    {
+      "id": 16,
+      "title": "Kussia",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/kussia.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 14,
+      "date": 1706261482707
+    },
+    {
+      "id": 17,
+      "title": "Exile",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/exile.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 15,
+      "date": 1706261482707
+    },
+    {
+      "id": 18,
+      "title": "ndls404",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/ndls.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 16,
+      "date": 1706261482707
+    },
+    {
+      "id": 19,
+      "title": "VERBEE",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/verbee.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 17,
+      "date": 1706261482707
+    },
+    {
+      "id": 20,
+      "title": "NKONA",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/ICOHA.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 18,
+      "date": 1706261482707
+    },
+    {
+      "id": 21,
+      "title": "XS PROJECT",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/xs_project.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 19,
+      "date": 1706261482707
+    },
+    {
+      "id": 22,
+      "title": "Похититель ароматов",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/aromat.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 20,
+      "date": 1706261482707
+    },
+    {
+      "id": 23,
+      "title": "Сергей Васильев",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/sergey.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 21,
+      "date": 1706261482707
+    },
+    {
+      "id": 24,
+      "title": "Skurt",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/skurt.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 22,
+      "date": 1706261482707
+    },
+    {
+      "id": 25,
+      "title": "Mozee Montana",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/mozee.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 23,
+      "date": 1706261482707
+    },
+    {
+      "id": 26,
+      "title": "fam wear",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/fam_wear.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 24,
+      "date": 1706261482707
+    },
+    {
+      "id": 27,
+      "title": "Kid Sole",
+      "previewPhoto": "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/collections/previews/kid_sole.jpg?raw=true",
+      "bannerPhoto": "",
+      "description": "",
+      "popularity": 85,
+      "authorID": 25,
+      "date": 1706261482707
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "price": 2400,
+      "oldPrice": 2750,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 1,
+      "price": 5650,
+      "oldPrice": 6190,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Худи \"Череп\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 2,
+      "price": 1,
+      "oldPrice": 6190,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Худи \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 3,
+      "price": 2400,
+      "oldPrice": 2750,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Pixel\" black от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 4,
+      "price": 2890,
+      "oldPrice": 2890,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Шарф \"DASHA\"",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+
+    {
+      "id": 5,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 6,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 7,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 8,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 9,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 10,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 11,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 12,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 13,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 14,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    },
+    {
+      "id": 15,
+      "price": 1,
+      "oldPrice": 100000,
+      "images": [
+        ""
+      ],
+      "type": "t-shirt",
+      "sale": true,
+      "collectID": 13,
+      "title": "Футболка \"Antique\" от SNAILKICK",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XS"
+      ],
+      "about": {
+        "title": "",
+        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+      }
+    }
+  ],
+  "answers": [
+    {
+      "id": 0,
+      "title": "SC WORLDWIDE",
+      "body": "so"
     }
   ]
 }
