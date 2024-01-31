@@ -287,10 +287,12 @@
       "price": 2400,
       "oldPrice": 2750,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/1/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/1/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/1/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/1/4.jpg?raw=true"
       ],
       "type": "t-shirt",
-      "sale": true,
       "collectID": 13,
       "title": "Футболка \"Antique\" от SNAILKICK",
       "sizes": [
@@ -310,10 +312,11 @@
       "price": 5650,
       "oldPrice": 6190,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/2/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/2/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/2/3.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
+      "type": "hoodie",
       "collectID": 13,
       "title": "Худи \"Череп\" от SNAILKICK",
       "sizes": [
@@ -333,10 +336,11 @@
       "price": 1,
       "oldPrice": 6190,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/3/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/3/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/3/3.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
+      "type": "hoodie",
       "collectID": 13,
       "title": "Худи \"Antique\" от SNAILKICK",
       "sizes": [
@@ -356,10 +360,11 @@
       "price": 2400,
       "oldPrice": 2750,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/4/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/4/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/4/3.jpg?raw=true"
       ],
       "type": "t-shirt",
-      "sale": true,
       "collectID": 13,
       "title": "Футболка \"Pixel\" black от SNAILKICK",
       "sizes": [
@@ -379,10 +384,13 @@
       "price": 2890,
       "oldPrice": 2890,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/5/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/5/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/5/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/5/4.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/snailkick/5/5.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
+      "type": "scarf",
       "collectID": 13,
       "title": "Шарф \"DASHA\"",
       "sizes": [
@@ -400,257 +408,447 @@
 
     {
       "id": 5,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 9900,
+      "oldPrice": 9900,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/0/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/0/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/0/3.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "type": "set",
+      "collectID": 0,
+      "title": "Новогодний набор VSRAP XMAS PACK",
       "sizes": [
         "XS",
-        "S",
         "M",
         "L",
-        "XS"
+        "XL"
       ],
       "about": {
         "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "description": "Доставка по всему миру\n Новогодний набор со свитером и плюшевым мишкой\n Лимитированный дроп\n Состав: 100% акрил"
       }
     },
+    
     {
       "id": 6,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 2890,
+      "oldPrice": 2890,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/1/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/1/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/1/3.jpg?raw=true"
       ],
       "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "collectID": 0,
+      "title": "Футболка \"Magnifique\"",
       "sizes": [
-        "XS",
         "S",
         "M",
         "L",
-        "XS"
+        "XL"
       ],
       "about": {
         "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "description": "Доставка по всему миру\n Ткань: бархатистая кулирка 300 гр/м²\n Состав: 100% хлопок\n Стразы на груди"
       }
     },
     {
       "id": 7,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 450,
+      "oldPrice": 450,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/2/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/2/2.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "type": "socks",
+      "collectID": 0,
+      "title": "Носки \"VSRAP\" Box Logo",
       "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS"
+        "35-39",
+        "40-44"
       ],
       "about": {
         "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "description": "Доставка по всему миру\n Вязаные носки\n Состав: хлопок - 52%; спандекс - 24%; ПА - 14%;\n"
       }
     },
     {
       "id": 8,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 1790,
+      "oldPrice": 1790,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/3/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/3/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/3/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/vsrap/3/4.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "type": "cap",
+      "collectID": 0,
+      "title": "Кепка VSRAP / цветные лого",
       "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS"
+        "Золотое лого",
+        "Красное лого",
+        "Розовое лого"
       ],
       "about": {
         "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "description": "Доставка по всему миру\n Кепки с универсальной застёжкой для голов всех размеров\n Нанесение логотипа осуществлено при помощи вышивки\n"
       }
     },
+
+
+
+
+
+
     {
       "id": 9,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 5990,
+      "oldPrice": 5990,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/1/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/1/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/1/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/1/4.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/1/5.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "type": "set",
+      "collectID": 1,
+      "title": "Подарочный набор со свечой от Dead Blonde",
       "sizes": [
-        "XS",
         "S",
         "M",
         "L",
-        "XS"
+        "XL"
       ],
       "about": {
         "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "description": "Доставка по всему миру\n Новогодний набор со свечой и футболкой\n Лимитированный дроп"
       }
     },
     {
       "id": 10,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 7490,
+      "oldPrice": 7490,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/2/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/2/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/2/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/2/4.gif?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/2/5.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/2/6.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "type": "blouse",
+      "collectID": 1,
+      "title": "Мотоджерси \"PLAYBLONDE\"",
       "sizes": [
-        "XS",
-        "S",
-        "M",
-        "L",
-        "XS"
+        "M"
       ],
       "about": {
         "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "description": "Доставка по всему миру\n Лимитированный тираж\n Доставка по всему Миру\n 100% полиэстер\n Сублимационная печать"
       }
     },
     {
       "id": 11,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 3290,
+      "oldPrice": 3290,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/3/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/3/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/3/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/3/4.jpg?raw=true"
       ],
       "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "collectID": 1,
+      "title": "Футболка \"PLAYBLONDE\"",
       "sizes": [
-        "XS",
         "S",
         "M",
         "L",
-        "XS"
+        "XL"
       ],
       "about": {
-        "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "title": "Предзаказ размера S! Отправки в течение 6-7 недель.",
+        "description": "Доставка по всему миру\n Оверсайз крой\n 100% хлопок\n DTF принт на груди"
       }
     },
-    {
+        {
       "id": 12,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 8990,
+      "oldPrice": 8990,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/4/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/4/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/4/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/4/4.jpg?raw=true"
       ],
       "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "collectID": 1,
+      "title": "Футболка \"PLAYBLONDE\"",
       "sizes": [
-        "XS",
-        "S",
         "M",
-        "L",
-        "XS"
+        "XL"
       ],
       "about": {
-        "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "title": "Предзаказ! Отправки в течение 7-8 недель.",
+        "description": "Доставка по всему миру\n Ткань: мокрый шёлк\n Состав: 100% полиэстер"
       }
     },
     {
       "id": 13,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 5990,
+      "oldPrice": 5990,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/5/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/5/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/5/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/5/4.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/dead_blond/5/5.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "type": "hoodie",
+      "collectID": 1,
+      "title": "Худи \"Sensitive content\" black",
       "sizes": [
-        "XS",
-        "S",
         "M",
-        "L",
-        "XS"
+        "M-L",
+        "XL"
       ],
       "about": {
-        "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "title": "Предзаказ! Отправки в течение 3-4 недель.",
+        "description": "Доставка по всему миру\n Оверсайз крой\n Ткань: футер петля 400 гр/м²\n Состав: 100% хлопок\n DTF печать на груди и спине"
       }
     },
+
+
+
+
+    
     {
       "id": 14,
-      "price": 1,
-      "oldPrice": 100000,
+      "price": 6890,
+      "oldPrice": 6890,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/1/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/1/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/1/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/1/4.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/1/5.jpg?raw=true"
+      ],
+      "type": "hoodie",
+      "collectID": 2,
+      "title": "Худи \"SC NEW ORDER\"",
+      "sizes": [
+        "S",
+        "M-L",
+        "XL"
+      ],
+      "about": {
+        "title": "Предзаказ! Отправки в течение 3-4 недель.",
+        "description": "Доставка по всему миру\n Оверсайз крой\n Ткань: футер петля 400 гр/м²\n Состав: 100% хлопок\n Шелкография на груди"
+      }
+    },
+      {
+      "id": 15,
+      "price": 3890,
+      "oldPrice": 3890,
+      "images": [
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/2/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/2/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/2/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/2/4.jpg?raw=true"
       ],
       "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "collectID": 2,
+      "title": "Футболка \"SC NEW ORDER\"",
       "sizes": [
-        "XS",
         "S",
         "M",
         "L",
-        "XS"
+        "XL"
       ],
       "about": {
-        "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "title": "Предзаказ! Отправки в течение 7-8 недель.",
+        "description": "Доставка по всему миру\n Оверсайз крой\n Ткань: кулирка 240 гр/м²\n Состав: 100% хлопок\n Шелкография на груди"
+      }
+    },
+      {
+      "id": 16,
+      "price": 10990,
+      "oldPrice": 10990,
+      "images": [
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/3/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/3/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/3/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/3/4.jpg?raw=true"
+      ],
+      "type": "blouse",
+      "collectID": 2,
+      "title": "Свитер \"SC NEW ORDER\"",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "about": {
+        "title": "Предзаказ! Отправки в течение 6-7 недель.",
+        "description": "Доставка по всему миру\n Лимитированный дроп\n Состав: 100% акрил\n Каждое изделие порвано и обработано вручную"
+      }
+    },
+      {
+      "id": 17,
+      "price": 5990,
+      "oldPrice": 5990,
+      "images": [
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/4/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/4/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/4/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/SC%20CMH/4/4.jpg?raw=true"
+      ],
+      "type": "blouse",
+      "collectID": 2,
+      "title": "Лонгслив \"SC NEW ORDER\"",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "about": {
+        "title": "Предзаказ! Отправки в течение 7-8 недель.",
+        "description": "Доставка по всему миру\n Оверсайз крой\n Состав: 100% хлопок\n Вышивка на груди"
+      }
+    },
+
+
+
+
+
+
+    
+      {
+      "id": 18,
+      "price": 5200,
+      "oldPrice": 5200,
+      "images": [
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/1/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/1/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/1/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/1/4.jpg?raw=true"
+      ],
+      "type": "hoodie",
+      "collectID": 3,
+      "title": "Худи \"University\" grey",
+      "sizes": [
+        "S",
+        "M-L",
+        "XL"
+      ],
+      "about": {
+        "title": "Предзаказ! Отправки в течение 7-8 недель.",
+        "description": "Доставка по всему миру\n Оверсайз крой\n Ткань: футер трёхнитка 400 гр/м² начёс\n Состав: 80% хлопок / 20% полиэстер"
       }
     },
     {
-      "id": 15,
-      "price": 1,
-      "oldPrice": 100000,
+      "id": 19,
+      "price": 8490,
+      "oldPrice": 9900,
       "images": [
-        ""
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/2/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/2/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/2/3.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/2/4.jpg?raw=true"
       ],
-      "type": "t-shirt",
-      "sale": true,
-      "collectID": 13,
-      "title": "Футболка \"Antique\" от SNAILKICK",
+      "type": "hoodie",
+      "collectID": 3,
+      "title": "Свитер \"University\" dark blue",
       "sizes": [
-        "XS",
-        "S",
         "M",
-        "L",
-        "XS"
+        "XL"
+      ],
+      "about": {
+        "title": "Предзаказ! Отправки в течение 1-2 недель.",
+        "description": "Доставка по всему миру\n Лимитированный дроп\n Состав: 100% акрил"
+      }
+    },
+    {
+      "id": 20,
+      "price": 8490,
+      "oldPrice": 9900,
+      "images": [
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/3/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/unversity/3/2.jpg?raw=true"
+      ],
+      "type": "blouse",
+      "collectID": 3,
+      "title": "Свитер \"University\" white",
+      "sizes": [
+        "M",
+        "XL"
       ],
       "about": {
         "title": "",
-        "description": "Доставка по всему миру\n Ткань: футер двунитка 240 гр/м²\n Состав: 80% хлопок / 20% полиэстер\n DTF печать на груди и спине"
+        "description": "Доставка по всему миру\n Лимитированный дроп\n Состав: 100% акрил"
+      }
+    },
+
+
+
+
+
+
+
+
+    {
+      "id": 21,
+      "price": 5190,
+      "oldPrice": 6190,
+      "images": [
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/liza/1/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/liza/1/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/liza/1/3.jpg?raw=true"
+      ],
+      "type": "blouse",
+      "collectID": 4,
+      "title": "Лонгслив \"Heartless\"",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "about": {
+        "title": "Предзаказ! Отправки в течение 7-8 недель.",
+        "description": "Доставка по всему миру\n Оверсайз крой\n Ткань: плотная кулирка 200гр/м²\n Состав: 100% хлопок\n Аппликация на груди DTF печать на рукава"
+      }
+    },
+    {
+      "id": 22,
+      "price": 5990,
+      "oldPrice": 5990,
+      "images": [
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/liza/2/1.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/liza/2/2.jpg?raw=true",
+        "https://github.com/Victor-Maznichenko/json-server-vsrap/blob/main/media/images/products/liza/2/3.jpg?raw=true"
+      ],
+      "type": "hoodie",
+      "collectID": 4,
+      "title": "Худи \"Heartless\"",
+      "sizes": [
+        "S",
+        "M-L",
+        "XL"
+      ],
+      "about": {
+        "title": "Предзаказ! Отправки в течение 7-8 недель.",
+        "description": "Доставка по всему миру\n Оверсайз крой\n Ткань: плотная кулирка 320гр/м²\n Состав: 100% хлопок"
       }
     }
+
+
+
+
+
   ],
   "answers": [
     {
